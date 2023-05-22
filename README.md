@@ -1,2 +1,2 @@
 # Certificados
- Certificações de cursos livres e faculdade;
+ Certificados de cursos livres e faculdade.
